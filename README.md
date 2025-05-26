@@ -1,6 +1,6 @@
 # Go - Logging
 
-[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=raizen_golang-logging&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=raizen_golang-logging) [![Coverage](https://sonarcloud.io/api/project_badges/measure?project=raizen_golang-logging&metric=coverage)](https://sonarcloud.io/summary/new_code?id=raizen_golang-logging)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=payly-solucoes-de-pagamentos_golang-logging&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=payly-solucoes-de-pagamentos_golang-logging) [![Coverage](https://sonarcloud.io/api/project_badges/measure?project=payly-solucoes-de-pagamentos_golang-logging&metric=coverage)](https://sonarcloud.io/summary/new_code?id=payly-solucoes-de-pagamentos_golang-logging)
 
 Abstraction over [zero](https://github.com/rs/zerolog) for logging.
 
