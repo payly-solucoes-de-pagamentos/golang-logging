@@ -1,4 +1,4 @@
-module github.com/raizen/golang-logging
+module github.com/payly-solucoes-de-pagamentos/golang-logging
 
 go 1.19
 
